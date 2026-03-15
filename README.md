@@ -1,4 +1,4 @@
-# 🏭 Ultem Polymer Plant AI Assistant
+# 🏭 Polymer Plant AI Assistant
 
 An intelligent AI-powered monitoring system that detects anomalies in polymer manufacturing processes and provides automated operational insights using Machine Learning and Generative AI.
 
